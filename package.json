@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@netlify/next": "^1.4.9",
+    "@netlify/plugin-nextjs": "^5.10.6",
     "framer-motion": "^12.7.3",
     "next": "15.3.0",
     "react": "^19.0.0",
