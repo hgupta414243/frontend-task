@@ -3,7 +3,7 @@
 ## 🧠 Objective
 Create a visually engaging and interactive webpage using Next.js + Tailwind CSS + an animation library of choice (Framer Motion, GSAP, React Spring, etc.). The page contrasts the "Without Simbian" vs "With Simbian" security operations experience, showcasing the dramatic difference in performance, outcomes, and visual storytelling. It must be responsive across multiple devices eg: Desktop, Mobile, Tablet etc
 
-#Note: You must match exact functionality and animation as displayed in video
+# Note: You must match exact functionality and animation as displayed in video
 
 ## Check video reference for more details
 
