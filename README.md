@@ -14,7 +14,7 @@ Video link [https://drive.google.com/drive/folders/1yeklCMBqYDDoCgnyqcqqwQhpyV5u
 
 ## 📄 What to Build
 
-### 🔴 Section 1 – Without Simbian
+### 🔴 Section 1 – Without Simbiancheck video how it is displayed)
 Design 3 cards:
 - **Ignored Alerts**
 - **Wrongly Closed Alerts**
@@ -34,7 +34,7 @@ Sample content lines:
 - Processing one alert at a time, missing the big picture
 - More time fixing SOAR automation, less time on real threats
 
-### 🟢 Section 2 – With Simbian
+### 🟢 Section 2 – With Simbian(check video how it is displayed)
 Display a step-by-step horizontal animation/flow that includes:
 - **Triaged & Reported** – SOC Agent handled investigation and reporting
 - **Automated Response** – Incident automatically contained
