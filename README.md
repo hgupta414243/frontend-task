@@ -3,6 +3,8 @@
 ## 🧠 Objective
 Create a visually engaging and interactive webpage using Next.js + Tailwind CSS + an animation library of choice (Framer Motion, GSAP, React Spring, etc.). The page contrasts the "Without Simbian" vs "With Simbian" security operations experience, showcasing the dramatic difference in performance, outcomes, and visual storytelling. It must be responsive across multiple devices eg: Desktop, Mobile, Tablet etc
 
+# Note: You must match exact functionality and animation as displayed in video
+
 ## Check video reference for more details
 
 Video Link [https://github.com/user-attachments/assets/754c12a8-e262-4bbf-95ea-9df64b28dad3]
@@ -12,7 +14,7 @@ Video link [https://drive.google.com/drive/folders/1yeklCMBqYDDoCgnyqcqqwQhpyV5u
 
 ## 📄 What to Build
 
-### 🔴 Section 1 – Without Simbian
+### 🔴 Section 1 – Without Simbian (check video how it is displayed)
 Design 3 cards:
 - **Ignored Alerts**
 - **Wrongly Closed Alerts**
@@ -32,7 +34,7 @@ Sample content lines:
 - Processing one alert at a time, missing the big picture
 - More time fixing SOAR automation, less time on real threats
 
-### 🟢 Section 2 – With Simbian
+### 🟢 Section 2 – With Simbian (check video how it is displayed)
 Display a step-by-step horizontal animation/flow that includes:
 - **Triaged & Reported** – SOC Agent handled investigation and reporting
 - **Automated Response** – Incident automatically contained
