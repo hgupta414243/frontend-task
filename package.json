@@ -6,9 +6,11 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "postbuild": "node ./node_modules/@netlify/next/dist/install.js"
   },
   "dependencies": {
+    "@netlify/next": "^1.4.9",
     "framer-motion": "^12.7.3",
     "next": "15.3.0",
     "react": "^19.0.0",
