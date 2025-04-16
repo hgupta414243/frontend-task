@@ -1,6 +1,7 @@
 [build]
-  command = "next build"
-  publish = "out"
+  command = "npm run build"
+  publishOrigin = "config"
+  publish = "build"
 [build.processing]
   skip_processing = false
 [build.processing.css]
@@ -13,5 +14,6 @@
 [functions]
   directory = "netlify/functions"
 
-[[plugins]]
+[[plugins]]'
+  origin = "config"
   package = "@netlify/plugin-nextjs"
